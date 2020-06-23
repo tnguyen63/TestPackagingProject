@@ -1,0 +1,2 @@
+MainPackage=C:\Users\t-hang\Desktop\TestPackagingProject\bin\x86\Debug\TestPackagingProject_1.0.2.0_x86_Debug.msix
+SymbolPackage=C:\Users\t-hang\Desktop\TestPackagingProject\obj\x86\Debug\Symbols\TestPackagingProject_1.0.2.0_x86_Debug.appxsym
